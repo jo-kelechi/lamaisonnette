@@ -2,5 +2,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/lamaisonnette/public_html/
+    - export DEPLOYPATH=/home/lamaisonnette/public_html/newsite/
     - /bin/cp -R * $DEPLOYPATH
