@@ -215,7 +215,7 @@
              
               </div>
               <div class="content">
-                <h4><a href="curriculum.php" target="_blank"> Motor skills development</a></h4>
+                <h4><a href="curriculum/motor-skills.php" target="_blank"> Motor skills development</a></h4>
               
               </div>
             <a href="curriculum.php" target="_blank"class="schedule2"> Read More</a>
