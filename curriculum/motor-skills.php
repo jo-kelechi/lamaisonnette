@@ -39,4 +39,30 @@
   </head>
   <body>
 
-    <?php include ('include/header.php'); ?>
+    <?php include ('../include/header.php'); ?>
+
+    
+    <?php include ('../include/footer.php'); ?>
+        
+    <!-- Optional JavaScript --> 
+    <!-- jQuery first, then Popper.js, then Bootstrap JS --> 
+    <script src="js/jquery-3.2.1.slim.min.js"></script> 
+    <!-- Popper min --> 
+    <script src="js/popper.min.js"></script> 
+    <!-- Bootstrap min file --> 
+    <script src="js/bootstrap.min.js"></script> 
+    <!-- Revolution Slider file --> 
+    <script src="js/jquery.themepunch.tools.min.js"></script> 
+    <script src="js/jquery.themepunch.revolution.min.js"></script> 
+    <!-- Isotope --> 
+    <script src="js/isotope.js"></script> 
+    <!-- Owl Carousel --> 
+    <script src="js/owl.carousel.js"></script> 
+    <!-- Jquery Fancybox --> 
+    <script src="js/jquery.fancybox.min.js"></script> 
+    <!-- Counter --> 
+    <script src="js/counter.js"></script> 
+    <!-- general script file --> 
+    <script src="js/script.js"></script>
+  </body>
+</html>
