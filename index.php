@@ -161,20 +161,18 @@
         <ul class="owl-carousel classes-wrap">
           <li class="item">
             <div class="class-item">
-              <div class="image"> <img src="images/class_01.jpg" alt="class image" class="img-responsive">          
+              <div class="image"> <img src="images/french.png" alt="class image" class="img-responsive">          
               </div>
               <div class="content">
                 <h4><a href="curriculum.php" target="_blank">French Curriculum </a></h4>          
-              </div>
-             
-              <a href="curriculum.php" target="_blank"class="schedule2"> Read More</a>
-         
+              </div>         
+              <a href="curriculum.php" target="_blank"class="schedule2"> Read More</a>     
             </div>
             <!-- class item --> 
           </li>
           <li class="item">
             <div class="class-item">
-              <div class="image"> <img src="images/class_02.jpg" alt="class image" class="img-responsive">
+              <div class="image"> <img src="images/kindergarten.png" alt="class image" class="img-responsive">
     
               </div>
               <div class="content">
@@ -187,7 +185,7 @@
           </li>
           <li class="item">
             <div class="class-item">
-              <div class="image"> <img src="images/c2.jpg" alt="class image" class="img-responsive">
+              <div class="image"> <img src="images/letters.png" alt="class image" class="img-responsive">
            
               </div>
               <div class="content">
@@ -200,7 +198,7 @@
           </li>
           <li class="item">
             <div class="class-item">
-              <div class="image"> <img src="images/class_01.jpg" alt="class image" class="img-responsive">
+              <div class="image"> <img src="images/think.png" alt="class image" class="img-responsive">
              
               </div>
               <div class="content">
@@ -213,7 +211,7 @@
           </li>
           <li class="item">
             <div class="class-item">
-              <div class="image"> <img src="images/class_02.jpg" alt="class image" class="img-responsive">
+              <div class="image"> <img src="images/motor.png" alt="class image" class="img-responsive">
              
               </div>
               <div class="content">
@@ -226,7 +224,7 @@
           </li>
           <li class="item">
             <div class="class-item">
-              <div class="image"> <img src="images/class_03.jpg" alt="class image" class="img-responsive">
+              <div class="image"> <img src="images/school.png" alt="class image" class="img-responsive">
               </div>
               <div class="content">
                 <h4><a href="curriculum.php" target="_blank">After school programme</a></h4>
@@ -237,7 +235,7 @@
           </li>
           <li class="item">
             <div class="class-item">
-              <div class="image"> <img src="images/c1.jpg" alt="class image" class="img-responsive">           
+              <div class="image"> <img src="images/practical.png" alt="class image" class="img-responsive">           
               </div>
               <div class="content">
                 <h4><a href="curriculum.php" target="_blank">Practical life exercises</a></h4>
@@ -248,7 +246,7 @@
           </li>
           <li class="item">
             <div class="class-item">
-              <div class="image"> <img src="images/c3.jpg" alt="class image" class="img-responsive">            
+              <div class="image"> <img src="images/knowledge.png" alt="class image" class="img-responsive">            
               </div>
               <div class="content">
                 <h4><a href="class-single.html">Knowledge and understanding of the world</a></h4>            
@@ -263,7 +261,7 @@
       </div>
       <!-- container --> 
     </div>
-    <!--Classes Start--> 
+    <!--Classes End--> 
  
     <!--Project Start-->
     <div class="project-wrap">
