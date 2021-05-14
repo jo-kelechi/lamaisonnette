@@ -1,0 +1,5 @@
+.title2 h1{font-size:30px;}
+
+.title2 span{
+	font-size:30px;
+}

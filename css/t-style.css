@@ -1,0 +1,117 @@
+.schedule2{
+	padding: 3%;
+	background: #FBBC05;
+	text-align: center;
+	color: white;
+	font-size: 17px;
+
+}
+
+.schedule2 a{
+color: white;
+text-transform: uppercase;
+	}
+
+	.content h4 {
+		color: #A61D34;
+		font-size: 15px;
+
+	}
+
+	.footer-bottom{
+		background: #A61C33;
+
+	}
+
+	.copyright-text{
+		color: white;
+
+	}
+
+
+	.inner-content2{
+		width: 80%;
+		min-height: 100%;
+	
+
+		margin: 0 auto;
+		margin-top: 5%;
+		margin-bottom: 5%;
+
+		padding: 25px;
+		line-height: 28px;
+		text-align: justify;
+		color: #666666;
+		 -webkit-box-shadow: 3px 3px 5px 6px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow:    3px 3px 5px 6px #ccc;  /* Firefox 3.5 - 3.6 */
+  box-shadow:         3px 3px 5px 6px #ccc;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+
+	}
+
+
+	.form-cont{
+		width: 100%;
+		padding: 15px;
+		height: 150px;
+ -webkit-box-shadow: 3px 3px 4px 5px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow:    3px 3px 4px 5px #ccc;  /* Firefox 3.5 - 3.6 */
+  box-shadow:         3px 3px 4px 5px #ccc;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+
+	}
+
+
+	.padding-1{
+		padding-top: 3%;
+		padding-bottom: 8%;
+
+	}
+
+	.form-icon{
+		width: 100%;
+		height: 70px;
+		margin: 0 auto;
+		font-size: 20px;
+		text-align: center;
+
+	}
+
+	.form-icon i{
+		font-size: 35px;
+		color: red;
+	}
+
+	.text-form{
+		text-align: center;
+		font-size: 16px;
+		color: #A61C33;
+
+	}
+
+	.section-header2 p{
+		width: 100%;
+		font-size: 17px;
+		text-align: center;
+		padding-bottom: 5%;
+
+	}
+
+
+	.in-title{
+		font-size: 18px;
+		color:#4285F4;
+		font-weight: bold;
+		text-transform: uppercase;
+		 }
+
+		 .post-content{
+		 	text-align: justify;
+		 	line-height: 28px;
+
+		 }
+
+		 		 .post-content li{
+		 	text-align: justify;
+		 	line-height: 35px;
+		 	font-size: 14px;
+
+		 }
