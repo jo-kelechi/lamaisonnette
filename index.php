@@ -37,28 +37,39 @@
 
     <title>La Maisonnette - Home</title>
   </head>
-<body>
-    
-  
+  <body>
 
+    <?php include ('include/header.php'); ?>
 
-<?php include ('include/header.php'); ?>
-
-
-
-
-    
     <!-- Revolution slider start -->
     <div class="tp-banner-container sliderWraper">
       <div class="tp-banner">
         <ul>
-          <li data-slotamount="7" data-transition="3dcurtain-horizontal" data-masterspeed="1000" data-saveperformance="on"> <img alt="" src="images/dummy.png" data-lazyload="images/banner.jpg">
+          <li data-slotamount="7" data-transition="3dcurtain-horizontal" data-masterspeed="3000" data-saveperformance="on"> <img alt="" src="images/dummy.png" data-lazyload="images/dk-banner1.png">
             <div class="caption lft large-title tp-resizeme slidertext2" data-x="center" data-y="140" data-speed="600" data-start="1000"> Welcome to</div>
             <div class="caption lfl large-title tp-resizeme slidertext1" data-x="center" data-y="170" data-speed="600" data-start="1600"> La Maisonnette</div>
             <div class="caption lft large-title tp-resizeme slidertext3" data-x="center" data-y="285" data-speed="600" data-start="2200"> Learning place that encourages children to be bilingual </div>
             <div class="caption lfb large-title tp-resizeme slidertext4" data-x="center" data-y="350" data-speed="600" data-start="2800"><a href="#" class="slidebtn">Get Started <i class="fa fa-arrow-right" aria-hidden="true"></i></a></div>
           </li>
-          <li data-slotamount="7" data-transition="slotzoom-horizontal" data-masterspeed="1000" data-saveperformance="on"> <img alt="" src="images/dummy.png" data-lazyload="images/banner2.jpg">
+          <li data-slotamount="7" data-transition="slotzoom-horizontal" data-masterspeed="3000" data-saveperformance="on"> <img alt="" src="images/dummy.png" data-lazyload="images/dk-banner2.png">
+            <div class="caption lft large-title tp-resizeme slidertext2" data-x="center" data-y="140" data-speed="600" data-start="1000"> Education For</div>
+            <div class="caption lfl large-title tp-resizeme slidertext1" data-x="center" data-y="170" data-speed="600" data-start="1600"> Your Children</div>
+            <div class="caption lft large-title tp-resizeme slidertext3" data-x="center" data-y="285" data-speed="600" data-start="2200">Providing a unique, high-quality early learning experience for children </div>
+            <div class="caption lfb large-title tp-resizeme slidertext4" data-x="center" data-y="350" data-speed="600" data-start="2800"><a href="#" class="slidebtn">Get Started <i class="fa fa-arrow-right" aria-hidden="true"></i></a></div>
+          </li>
+          <li data-slotamount="7" data-transition="slotzoom-horizontal" data-masterspeed="3000" data-saveperformance="on"> <img alt="" src="images/dummy.png" data-lazyload="images/dk-banner3.png">
+            <div class="caption lft large-title tp-resizeme slidertext2" data-x="center" data-y="140" data-speed="600" data-start="1000"> Education For</div>
+            <div class="caption lfl large-title tp-resizeme slidertext1" data-x="center" data-y="170" data-speed="600" data-start="1600"> Your Children</div>
+            <div class="caption lft large-title tp-resizeme slidertext3" data-x="center" data-y="285" data-speed="600" data-start="2200">Providing a unique, high-quality early learning experience for children </div>
+            <div class="caption lfb large-title tp-resizeme slidertext4" data-x="center" data-y="350" data-speed="600" data-start="2800"><a href="#" class="slidebtn">Get Started <i class="fa fa-arrow-right" aria-hidden="true"></i></a></div>
+          </li>
+          <li data-slotamount="7" data-transition="slotzoom-horizontal" data-masterspeed="3000" data-saveperformance="on"> <img alt="" src="images/dummy.png" data-lazyload="images/dk-banner4.png">
+            <div class="caption lft large-title tp-resizeme slidertext2" data-x="center" data-y="140" data-speed="600" data-start="1000"> Education For</div>
+            <div class="caption lfl large-title tp-resizeme slidertext1" data-x="center" data-y="170" data-speed="600" data-start="1600"> Your Children</div>
+            <div class="caption lft large-title tp-resizeme slidertext3" data-x="center" data-y="285" data-speed="600" data-start="2200">Providing a unique, high-quality early learning experience for children </div>
+            <div class="caption lfb large-title tp-resizeme slidertext4" data-x="center" data-y="350" data-speed="600" data-start="2800"><a href="#" class="slidebtn">Get Started <i class="fa fa-arrow-right" aria-hidden="true"></i></a></div>
+          </li>
+          <li data-slotamount="7" data-transition="slotzoom-horizontal" data-masterspeed="3000" data-saveperformance="on"> <img alt="" src="images/dummy.png" data-lazyload="images/dk-banner5.png">
             <div class="caption lft large-title tp-resizeme slidertext2" data-x="center" data-y="140" data-speed="600" data-start="1000"> Education For</div>
             <div class="caption lfl large-title tp-resizeme slidertext1" data-x="center" data-y="170" data-speed="600" data-start="1600"> Your Children</div>
             <div class="caption lft large-title tp-resizeme slidertext3" data-x="center" data-y="285" data-speed="600" data-start="2200">Providing a unique, high-quality early learning experience for children </div>
@@ -75,7 +86,7 @@
         <ul class="row">
           <li class="col-lg-4">
             <div class="elementInfo">
-   <div class="element-icon"><img src="images/book.png" alt=""></div>
+              <div class="element-icon"><img src="images/book.png" alt=""></div>
               <h3>Program</h3>
               <p>We run a parallel curriculum; a French language programme and the EYFS curriculum which is British based..</p>
             </div>
@@ -109,8 +120,8 @@
             </div>
             <p><strong>Learning place that encourages children to be bilingual</strong></p>
             <p>We are a bilingual daycare/preschool for 3 months to 5 years old located in Gbagada, Lagos.
-We also run an Afterschool and Weekend French Club for children up to 10 years old.
-We run a parallel curriculum; a French language programme and the EYFS curriculum which is British based for our preschoolers. </p>
+              We also run an Afterschool and Weekend French Club for children up to 10 years old.
+              We run a parallel curriculum; a French language programme and the EYFS curriculum which is British based for our preschoolers. </p>
             <ul class="row iconsWrp">
               <li class="col-lg-4 col-md-4">
                 <div class="icon-box iconbox-theme-colored"> <a class="icon-wrap icon-dark icon-circled icon-border-effect effect-circled icon-lg" href="#"> <i class="fa fa-home" aria-hidden="true"></i></a>
@@ -150,17 +161,13 @@ We run a parallel curriculum; a French language programme and the EYFS curriculu
         <ul class="owl-carousel classes-wrap">
           <li class="item">
             <div class="class-item">
-              <div class="image"> <img src="images/class_01.jpg" alt="class image" class="img-responsive">
-               
+              <div class="image"> <img src="images/class_01.jpg" alt="class image" class="img-responsive">          
               </div>
               <div class="content">
-                <h4><a href="curriculum.php" target="_blank">French Curriculum </a></h4>
-           
+                <h4><a href="curriculum.php" target="_blank">French Curriculum </a></h4>          
               </div>
              
               <a href="curriculum.php" target="_blank"class="schedule2"> Read More</a>
-   
-            
          
             </div>
             <!-- class item --> 
@@ -220,43 +227,33 @@ We run a parallel curriculum; a French language programme and the EYFS curriculu
           <li class="item">
             <div class="class-item">
               <div class="image"> <img src="images/class_03.jpg" alt="class image" class="img-responsive">
-             
               </div>
               <div class="content">
                 <h4><a href="curriculum.php" target="_blank">After school programme</a></h4>
-                
               </div>
-          <a href="curriculum.php" target="_blank"class="schedule2"> Read More</a>
+              <a href="curriculum.php" target="_blank"class="schedule2"> Read More</a>
             </div>
             <!-- class item --> 
           </li>
-
-
-    <li class="item">
+          <li class="item">
             <div class="class-item">
-              <div class="image"> <img src="images/c1.jpg" alt="class image" class="img-responsive">
-             
+              <div class="image"> <img src="images/c1.jpg" alt="class image" class="img-responsive">           
               </div>
               <div class="content">
                 <h4><a href="curriculum.php" target="_blank">Practical life exercises</a></h4>
-                
               </div>
-          <a href="curriculum.php" target="_blank" class="schedule2"> Read More</a>
+              <a href="curriculum.php" target="_blank" class="schedule2"> Read More</a>
             </div>
             <!-- class item --> 
           </li>
-
-
-              <li class="item">
+          <li class="item">
             <div class="class-item">
-              <div class="image"> <img src="images/c3.jpg" alt="class image" class="img-responsive">
-             
+              <div class="image"> <img src="images/c3.jpg" alt="class image" class="img-responsive">            
               </div>
               <div class="content">
-                <h4><a href="class-single.html">Knowledge and understanding of the world</a></h4>
-             
+                <h4><a href="class-single.html">Knowledge and understanding of the world</a></h4>            
               </div>
-          <a href="curriculum.php" target="_blank" class="schedule2"> Read More</a>
+              <a href="curriculum.php" target="_blank" class="schedule2"> Read More</a>
             </div>
             <!-- class item --> 
           </li>
@@ -267,8 +264,7 @@ We run a parallel curriculum; a French language programme and the EYFS curriculu
       <!-- container --> 
     </div>
     <!--Classes Start--> 
-   
-    
+ 
     <!--Project Start-->
     <div class="project-wrap">
       <div class="container">
@@ -280,150 +276,113 @@ We run a parallel curriculum; a French language programme and the EYFS curriculu
             <p></p>
           </div>
         </div>
-      </div>
-      
+      </div>    
 
- <div class="galleryWrp">
-      <ul class="row">
-        <li class="col-lg-3 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g1.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-              <div class="jx-portfolio-top-hover">
-          
+      <div class="galleryWrp">
+        <ul class="row">
+          <li class="col-lg-3 col-md-6">
+            <div class="galleryImg"><img src="images/gallery/g1.jpg" alt="">
+              <div class="jx-portfolio-hoverlayer"></div>
+              <div class="jx-portfolio-hover">
+                <div class="jx-portfolio-top-hover">
+                </div>
+                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g1.jpg" data-fancybox="gallery">
+                  <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                  </a> </div>
               </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g1.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
             </div>
-          </div>
-        </li>
-        <li class="col-lg-3 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g2.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-              <div class="jx-portfolio-top-hover">
-              
+          </li>
+          <li class="col-lg-3 col-md-6">
+            <div class="galleryImg"><img src="images/gallery/g2.jpg" alt="">
+              <div class="jx-portfolio-hoverlayer"></div>
+              <div class="jx-portfolio-hover">
+                <div class="jx-portfolio-top-hover">          
+                </div>
+                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g2.jpg" data-fancybox="gallery">
+                  <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                  </a> </div>
               </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g2.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
             </div>
-          </div>
-        </li>
-        <li class="col-lg-3 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g3.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-              <div class="jx-portfolio-top-hover">
-              
+          </li>
+          <li class="col-lg-3 col-md-6">
+            <div class="galleryImg"><img src="images/gallery/g3.jpg" alt="">
+              <div class="jx-portfolio-hoverlayer"></div>
+              <div class="jx-portfolio-hover">
+                <div class="jx-portfolio-top-hover">            
+                </div>
+                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g3.jpg" data-fancybox="gallery">
+                  <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                  </a> </div>
               </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g3.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
             </div>
-          </div>
-        </li>
-        <li class="col-lg-3 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g4.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-                        
-              <div class="jx-portfolio-top-hover">
-              
+          </li>
+          <li class="col-lg-3 col-md-6">
+            <div class="galleryImg"><img src="images/gallery/g4.jpg" alt="">
+              <div class="jx-portfolio-hoverlayer"></div>
+              <div class="jx-portfolio-hover">                       
+                <div class="jx-portfolio-top-hover">            
+                </div>
+                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g4.jpg" data-fancybox="gallery">
+                  <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                  </a> </div>
               </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g4.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
             </div>
-          </div>
-        </li>
-        <li class="col-lg-3 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g5.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-              <div class="jx-portfolio-top-hover">
-            
+          </li>
+          <li class="col-lg-3 col-md-6">
+            <div class="galleryImg"><img src="images/gallery/g5.jpg" alt="">
+              <div class="jx-portfolio-hoverlayer"></div>
+              <div class="jx-portfolio-hover">
+                <div class="jx-portfolio-top-hover">     
+                </div>
+                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g5.jpg" data-fancybox="gallery">
+                  <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                  </a> </div>
               </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g5.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
             </div>
-          </div>
-        </li>
-        <li class="col-lg-3 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g6.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-              <div class="jx-portfolio-top-hover">
-              
+          </li>
+          <li class="col-lg-3 col-md-6">
+            <div class="galleryImg"><img src="images/gallery/g6.jpg" alt="">
+              <div class="jx-portfolio-hoverlayer"></div>
+              <div class="jx-portfolio-hover">
+                <div class="jx-portfolio-top-hover">            
+                </div>
+                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g6.jpg" data-fancybox="gallery">
+                  <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                  </a> </div>
               </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g6.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
             </div>
-          </div>
-        </li>
-        <li class="col-lg-3 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g7.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-              <div class="jx-portfolio-top-hover">
-             v>
+          </li>
+          <li class="col-lg-3 col-md-6">
+            <div class="galleryImg"><img src="images/gallery/g7.jpg" alt="">
+              <div class="jx-portfolio-hoverlayer"></div>
+              <div class="jx-portfolio-hover">
+                <div class="jx-portfolio-top-hover">
+                </div>
+                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g7.jpg" data-fancybox="gallery">
+                  <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                  </a> </div>
               </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g7.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
             </div>
-          </div>
-        </li>
-
-        <li class="col-lg-3 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g8.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-              <div class="jx-portfolio-top-hover">
-              
+          </li>
+          <li class="col-lg-3 col-md-6">
+            <div class="galleryImg"><img src="images/gallery/g8.jpg" alt="">
+              <div class="jx-portfolio-hoverlayer"></div>
+              <div class="jx-portfolio-hover">
+                <div class="jx-portfolio-top-hover">            
+                </div>
+                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g8.jpg" data-fancybox="gallery">
+                  <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                  </a> </div>
               </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g8.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
             </div>
-          </div>
-        </li>
-    
-      </ul>
-    </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+          </li> 
+        </ul>
       </div>
     </div>
     <!--Project End--> 
-  
 
-
-<?php include ('include/footer.php'); ?>
-
-
-
-
-
-
-
-
-    
+    <?php include ('include/footer.php'); ?>
+        
     <!-- Optional JavaScript --> 
     <!-- jQuery first, then Popper.js, then Bootstrap JS --> 
     <script src="js/jquery-3.2.1.slim.min.js"></script> 
@@ -444,5 +403,5 @@ We run a parallel curriculum; a French language programme and the EYFS curriculu
     <script src="js/counter.js"></script> 
     <!-- general script file --> 
     <script src="js/script.js"></script>
-    </body>
-    </html>
+  </body>
+</html>
