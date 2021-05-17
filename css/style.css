@@ -320,7 +320,7 @@ a.slidebtn i{margin-left:10px;}
 .about-wrap{padding:40px 0 0 0;}
 .aboutImg{margin-top:20px;}
 .aboutImg{margin-top:20px;}
-.about-wrap .readmore{margin-top:30px;}
+.about-wrap .readmore{margin:30px 0 30px;}
 .about-wrap p strong{font-size:18px; font-family: 'Poppins', sans-serif;}
 .about-wrap .title{margin-top:45px;}
 .aboutImg{text-align:center;}
@@ -1074,7 +1074,7 @@ background-color:#e63d53;
 **********************************************/
 .inner-content .blog-wrap{background:none; padding:0;}
 .inner-content .blogImg img{width:100%;}
-.inner-content .blogInfo .readmore{margin:20px 0 50px;}
+.inner-content .blogInfo .readmore{margin:30px 0;}
 .inner-content .blogInfo .readmore a{padding: 13px 32px; font-size: 14px;}
 .inner-content .blog-wrap ul li{margin:5px 0;}
 .page-link{color:#000;}
@@ -1174,7 +1174,7 @@ background-color:#e63d53;
   letter-spacing: 10px;
 }
 .four-zero-page p{letter-spacing: 2px; padding:0 250px;}
-.four-zero-page .readmore{margin-top:30px;}
+.four-zero-page .readmore{margin:30px 0 50px;}
 
 
 /*********************************************
@@ -2580,7 +2580,7 @@ blockquote:after {
 
 @media screen and (max-width: 1200px) {
 .aboutImg{position:absolute; bottom:0; left:0;}
-.about-wrap .readmore{margin-bottom:30px;}
+.about-wrap .readmore{margin-bottom:50px;}
 .join-wrap .readmore a{padding: 16px 34px; font-size: 15px;}
 .elementInfo{padding: 25px 25px;}
 .title h1{font-size: 36px;}
@@ -2611,7 +2611,7 @@ blockquote:after {
 .video-wrap p{padding:0;}
 .expert-wrap ul li{display:inline-block; max-width:370px; margin:15px auto 15px auto;}
 .blog-wrap ul li{display:inline-block; max-width:370px; margin:10px auto !important;}
-.join-wrap .readmore{margin-top:28px;}
+.join-wrap .readmore{margin-top:30px;}
 .navbar-toggler{display:block;}
 .four-zero-page p{letter-spacing: 1px; padding:0;}
 .contact-wrap .lead{padding:0;}
