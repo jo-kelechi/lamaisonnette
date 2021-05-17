@@ -1074,7 +1074,7 @@ background-color:#e63d53;
 **********************************************/
 .inner-content .blog-wrap{background:none; padding:0;}
 .inner-content .blogImg img{width:100%;}
-.inner-content .blogInfo .readmore{margin-top:20px;}
+.inner-content .blogInfo .readmore{margin:20px 0 50px;}
 .inner-content .blogInfo .readmore a{padding: 13px 32px; font-size: 14px;}
 .inner-content .blog-wrap ul li{margin:5px 0;}
 .page-link{color:#000;}

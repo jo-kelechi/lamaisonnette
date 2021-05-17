@@ -279,102 +279,103 @@
       <div class="galleryWrp">
         <ul class="row">
           <li class="col-lg-3 col-md-6">
-            <div class="galleryImg"><img src="images/gallery/g1.jpg" alt="">
+            <div class="galleryImg"><img src="images/gallery/g1.png" alt="">
               <div class="jx-portfolio-hoverlayer"></div>
               <div class="jx-portfolio-hover">
                 <div class="jx-portfolio-top-hover">
                 </div>
-                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g1.jpg" data-fancybox="gallery">
+                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g1.png" data-fancybox="gallery">
                   <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
                   </a> </div>
               </div>
             </div>
           </li>
           <li class="col-lg-3 col-md-6">
-            <div class="galleryImg"><img src="images/gallery/g2.jpg" alt="">
+            <div class="galleryImg"><img src="images/gallery/g12.png" alt="">
               <div class="jx-portfolio-hoverlayer"></div>
               <div class="jx-portfolio-hover">
                 <div class="jx-portfolio-top-hover">          
                 </div>
-                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g2.jpg" data-fancybox="gallery">
+                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g12.png" data-fancybox="gallery">
                   <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
                   </a> </div>
               </div>
             </div>
           </li>
           <li class="col-lg-3 col-md-6">
-            <div class="galleryImg"><img src="images/gallery/g3.jpg" alt="">
+            <div class="galleryImg"><img src="images/gallery/g3.png" alt="">
               <div class="jx-portfolio-hoverlayer"></div>
               <div class="jx-portfolio-hover">
                 <div class="jx-portfolio-top-hover">            
                 </div>
-                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g3.jpg" data-fancybox="gallery">
+                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g3.png" data-fancybox="gallery">
                   <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
                   </a> </div>
               </div>
             </div>
           </li>
           <li class="col-lg-3 col-md-6">
-            <div class="galleryImg"><img src="images/gallery/g4.jpg" alt="">
+            <div class="galleryImg"><img src="images/gallery/g14.png" alt="">
               <div class="jx-portfolio-hoverlayer"></div>
               <div class="jx-portfolio-hover">                       
                 <div class="jx-portfolio-top-hover">            
                 </div>
-                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g4.jpg" data-fancybox="gallery">
+                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g14.png" data-fancybox="gallery">
                   <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
                   </a> </div>
               </div>
             </div>
           </li>
           <li class="col-lg-3 col-md-6">
-            <div class="galleryImg"><img src="images/gallery/g5.jpg" alt="">
+            <div class="galleryImg"><img src="images/gallery/g5.png" alt="">
               <div class="jx-portfolio-hoverlayer"></div>
               <div class="jx-portfolio-hover">
                 <div class="jx-portfolio-top-hover">     
                 </div>
-                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g5.jpg" data-fancybox="gallery">
+                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g5.png" data-fancybox="gallery">
                   <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
                   </a> </div>
               </div>
             </div>
           </li>
           <li class="col-lg-3 col-md-6">
-            <div class="galleryImg"><img src="images/gallery/g6.jpg" alt="">
+            <div class="galleryImg"><img src="images/gallery/g16.png" alt="">
               <div class="jx-portfolio-hoverlayer"></div>
               <div class="jx-portfolio-hover">
                 <div class="jx-portfolio-top-hover">            
                 </div>
-                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g6.jpg" data-fancybox="gallery">
+                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g16.png" data-fancybox="gallery">
                   <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
                   </a> </div>
               </div>
             </div>
           </li>
           <li class="col-lg-3 col-md-6">
-            <div class="galleryImg"><img src="images/gallery/g7.jpg" alt="">
+            <div class="galleryImg"><img src="images/gallery/g7.png" alt="">
               <div class="jx-portfolio-hoverlayer"></div>
               <div class="jx-portfolio-hover">
                 <div class="jx-portfolio-top-hover">
                 </div>
-                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g7.jpg" data-fancybox="gallery">
+                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g7.png" data-fancybox="gallery">
                   <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
                   </a> </div>
               </div>
             </div>
           </li>
           <li class="col-lg-3 col-md-6">
-            <div class="galleryImg"><img src="images/gallery/g8.jpg" alt="">
+            <div class="galleryImg"><img src="images/gallery/g18.png" alt="">
               <div class="jx-portfolio-hoverlayer"></div>
               <div class="jx-portfolio-hover">
                 <div class="jx-portfolio-top-hover">            
                 </div>
-                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g8.jpg" data-fancybox="gallery">
+                <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g18.png" data-fancybox="gallery">
                   <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
                   </a> </div>
               </div>
             </div>
           </li> 
         </ul>
+        <div class="readmore"><a href="/gallery.php">View All <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a></div>
       </div>
     </div>
     <!--Project End--> 
