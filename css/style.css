@@ -1358,7 +1358,7 @@ background-color:#e63d53;
 .contact_wraper textarea.form-control{height:115px !important;}
 .contact_wraper .contactbtn{text-align:center; display:block;}
 .contact_wraper .formwrap .btn, #myBtnContainer .btn {padding:12px 38px; font-size:18px; background:#f36f21; border-radius:30px; color:#fff; display:inline-block; font-weight:bold; text-transform:uppercase;}
-.contact_wraper .formwrap .btn:hover, #myBtnContainer .btn:hover {background:#000;}
+.contact_wraper .formwrap .btn:hover, #myBtnContainer .btn:hover, #myBtnContainer .btn:active, #myBtnContainer .btn.active {background:#000;}
 
 
 
