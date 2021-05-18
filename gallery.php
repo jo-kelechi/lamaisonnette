@@ -1,22 +1,20 @@
-
-    <!doctype html>
-    <html lang="en">
-    <head>
+<!doctype html>
+<html lang="en">
+  <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
 
-<link href="font2/css/fontawesome.css" rel="stylesheet">
-  <link href="font2/css/brands.css" rel="stylesheet">
-  <link href="font2/css/solid.css" rel="stylesheet">
+    <link href="font2/css/fontawesome.css" rel="stylesheet">
+    <link href="font2/css/brands.css" rel="stylesheet">
+    <link href="font2/css/solid.css" rel="stylesheet">
 
-  <!-- font-awesome css -->
-  <link rel="stylesheet" href="font/css/font-awesome.css">
-<link rel="stylesheet" href="font/css/font-awesome.min.css">
+    <!-- font-awesome css -->
+    <link rel="stylesheet" href="font/css/font-awesome.css">
+    <link rel="stylesheet" href="font/css/font-awesome.min.css">
 
-    <!-- favicon icon -->
-<link rel="shortcut icon" href="images/logo-wide.png" />
+      <!-- favicon icon -->
+    <link rel="shortcut icon" href="images/logo-wide.png" />
     
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -30,216 +28,342 @@
     <link href="css/owl.carousel.css" rel="stylesheet">
     <!-- Style CSS -->
     <link href="css/style.css" rel="stylesheet" id="colors">
- <link href="css/T-style.css" rel="stylesheet" id="colors">
-
+    <link href="css/T-style.css" rel="stylesheet" id="colors">
 
     <!-- Open Sans Family -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
     <!-- Roboto Family -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900" rel="stylesheet">
 
-<title>La Maisonnette - Home</title>
-    </head>
-    <body>
-    
-  
+    <title>La Maisonnette - Home</title>
+  </head>
+  <body>
+    <?php include ('include/header.php'); ?>
 
-
-<?php include ('include/header.php'); ?>
-
-<!--Inner Heading Start-->
-<div class="inner-heading">
-  <div class="container">
-    <h1>gallery</h1>
-  </div>
-</div>
-
-<div class="inner-content">
-  <div class="container">
-    <div class="galleryWrp">
-      <ul class="row">
-        <li class="col-lg-4 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g1.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-              <div class="jx-portfolio-top-hover">
-                <div class="jx-title jx-uppercase">Science Class</div>
-              </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g1.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
-            </div>
-          </div>
-        </li>
-        <li class="col-lg-4 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g2.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-              <div class="jx-portfolio-top-hover">
-                <div class="jx-title jx-uppercase">Science Class</div>
-              </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g2.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
-            </div>
-          </div>
-        </li>
-        <li class="col-lg-4 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g3.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-              <div class="jx-portfolio-top-hover">
-                <div class="jx-title jx-uppercase">Science Class</div>
-              </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g3.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
-            </div>
-          </div>
-        </li>
-        <li class="col-lg-4 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g4.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-                        
-              <div class="jx-portfolio-top-hover">
-                <div class="jx-title jx-uppercase">Science Class</div>
-              </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g4.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
-            </div>
-          </div>
-        </li>
-        <li class="col-lg-4 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g5.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-              <div class="jx-portfolio-top-hover">
-                <div class="jx-title jx-uppercase">Science Class</div>
-              </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g5.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
-            </div>
-          </div>
-        </li>
-        <li class="col-lg-4 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g6.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-              <div class="jx-portfolio-top-hover">
-                <div class="jx-title jx-uppercase">Science Class</div>
-              </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g6.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
-            </div>
-          </div>
-        </li>
-        <li class="col-lg-4 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g7.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-              <div class="jx-portfolio-top-hover">
-                <div class="jx-title jx-uppercase">Science Class</div>
-              </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g7.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
-            </div>
-          </div>
-        </li>
-        <li class="col-lg-4 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g8.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-              <div class="jx-portfolio-top-hover">
-  
-              </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g8.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
-            </div>
-          </div>
-        </li>
-        <li class="col-lg-4 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g9.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-              <div class="jx-portfolio-top-hover">
-   
-              </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g9.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
-            </div>
-          </div>
-        </li>
-
-          <li class="col-lg-4 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g10.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-              <div class="jx-portfolio-top-hover">
-   
-              </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g10.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
-            </div>
-          </div>
-        </li>
-       <li class="col-lg-4 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g11.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-              <div class="jx-portfolio-top-hover">
-   
-              </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g11.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
-            </div>
-          </div>
-        </li>
-
-
-
-    <li class="col-lg-4 col-md-6">
-          <div class="galleryImg"><img src="images/gallery/g12.jpg" alt="">
-            <div class="jx-portfolio-hoverlayer"></div>
-            <div class="jx-portfolio-hover">
-              <div class="jx-portfolio-top-hover">
-   
-              </div>
-              <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g12.jpg" data-fancybox="gallery">
-                <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
-                </a> </div>
-            </div>
-          </div>
-        </li>
-
-
-
-
-
-      </ul>
+    <!--Inner Heading Start-->
+    <div class="inner-heading">
+      <div class="container">
+        <h1>gallery</h1>
+      </div>
     </div>
-  </div>
-</div>
-<!--Gallery End--> 
 
+    <div class="inner-content">
+      <div id="myBtnContainer">
+        <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+        <button class="btn" onclick="filterSelection('class1')"> Class One</button>
+        <button class="btn" onclick="filterSelection('class2')"> Class Two</button>
+        <button class="btn" onclick="filterSelection('class3')"> Class Three</button>
+        <button class="btn" onclick="filterSelection('class4')"> Class Four</button>
+        <button class="btn" onclick="filterSelection('kinder')"> Kindergarten</button>
+      </div>
+      <div class="container">
+        <div class="galleryWrp">
+          <ul class="row">
+            <li class="col-lg-4 col-md-6 column class2">
+              <div class="galleryImg"><img src="images/gallery/g1.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Science Class</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g1.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class1">
+              <div class="galleryImg"><img src="images/gallery/g2.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Science Class</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g2.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class3">
+              <div class="galleryImg"><img src="images/gallery/g3.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Science Class</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g3.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class4">
+              <div class="galleryImg"><img src="images/gallery/g4.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                            
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Science Class</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g4.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class3">
+              <div class="galleryImg"><img src="images/gallery/g5.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Science Class</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g5.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class2">
+              <div class="galleryImg"><img src="images/gallery/g6.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Science Class</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g6.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class1">
+              <div class="galleryImg"><img src="images/gallery/g7.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Science Class</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g7.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class2">
+              <div class="galleryImg"><img src="images/gallery/g8.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g8.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class4">
+              <div class="galleryImg"><img src="images/gallery/g9.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+      
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g9.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class3">
+              <div class="galleryImg"><img src="images/gallery/g10.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g10.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class1">
+              <div class="galleryImg"><img src="images/gallery/g11.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+      
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g11.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class3">
+              <div class="galleryImg"><img src="images/gallery/g12.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g12.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class2">
+              <div class="galleryImg"><img src="images/gallery/g13.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g13.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class4">
+              <div class="galleryImg"><img src="images/gallery/g14.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g14.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class3">
+              <div class="galleryImg"><img src="images/gallery/g15.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g15.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class2">
+              <div class="galleryImg"><img src="images/gallery/g16.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g16.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class1">
+              <div class="galleryImg"><img src="images/gallery/g17.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g17.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class2">
+              <div class="galleryImg"><img src="images/gallery/g18.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g18.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class3">
+              <div class="galleryImg"><img src="images/gallery/g19.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g19.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class4">
+              <div class="galleryImg"><img src="images/gallery/g20.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g20.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class1">
+              <div class="galleryImg"><img src="images/gallery/g21.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g21.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class3">
+              <div class="galleryImg"><img src="images/gallery/g22.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g22.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class2">
+              <div class="galleryImg"><img src="images/gallery/g23.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g23.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column class4">
+              <div class="galleryImg"><img src="images/gallery/g24.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g24.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!--Gallery End--> 
 
-<?php include ('include/footer.php'); ?>
-
-
-
-
-
-
-
-
+    <?php include ('include/footer.php'); ?>
     
     <!-- Optional JavaScript --> 
     <!-- jQuery first, then Popper.js, then Bootstrap JS --> 
@@ -261,5 +385,5 @@
     <script src="js/counter.js"></script> 
     <!-- general script file --> 
     <script src="js/script.js"></script>
-    </body>
-    </html>
+  </body>
+</html>

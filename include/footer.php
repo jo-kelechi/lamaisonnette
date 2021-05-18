@@ -60,7 +60,7 @@
     <!--Copyright Start-->
     <div class="footer-bottom text-center">
       <div class="container">
-<div class="copyright-text">Copyright © La Maisonnette 2020. All Rights Reserved | Powered  by: <a href="starks.com.ng"> Starks</a></div>
+      <div class="copyright-text">Copyright © La Maisonnette 2020. All Rights Reserved</div>
       </div>
     </div>
     <!--Copyright Start--> 
