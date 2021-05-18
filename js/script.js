@@ -227,10 +227,20 @@ function removeClass(element, name) {
   element.className = arr1.join(" ");
 }
 
-
 // Add active class to the current button (highlight it)
 var btnContainer = document.getElementById("myBtnContainer");
 var btns = btnContainer.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function(){
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+
+// Add active class to the current header link (highlight it)
+var btnContainer = document.getElementById("navbarhdr");
+var btns = btnContainer.getElementsByClassName("nav-item");
 for (var i = 0; i < btns.length; i++) {
   btns[i].addEventListener("click", function(){
     var current = document.getElementsByClassName("active");

@@ -14,8 +14,8 @@
                   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
                 </div>
                 <div class="collapse navbar-collapse" id="navbarColor01">
-                  <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active"> <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a></li>
+                  <ul class="navbar-nav mr-auto" id="navbarhdr">
+                    <li class="nav-item active"> <a class="nav-link" href="index.php">Home</a></li>
                     <li class="nav-item"> <a class="nav-link" href="about.php">About</a> </li>
                     <li class="nav-item"> <a class="nav-link" href="admission.php">Admission</a> </li>
                     <li class="nav-item"> <a class="nav-link" href="curriculum.php">Curriculum</a> </li>
@@ -32,17 +32,4 @@
         </div>
       </div>
     </div>
-    <!--Header End--> 
-
-<script>
-// Add active class to the current button (highlight it)
-var header = document.getElementById("navbarColor01");
-var btns = header.getElementsByClassName("nav-item");
-for (var i = 0; i < btns.length; i++) {
-  btns[i].addEventListener("click", function() {
-  var current = document.getElementsByClassName("active");
-  current[0].className = current[0].className.replace(" active", "");
-  this.className += " active";
-  });
-}
-</script>
+    <!--Header End-->
