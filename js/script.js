@@ -239,7 +239,7 @@ for (var i = 0; i < btns.length; i++) {
 }
 
 // Add active class to the current header link (highlight it)
-var btnContainer = document.getElementById("navbarhdr");
+/* var btnContainer = document.getElementById("navbarhdr");
 var btns = btnContainer.getElementsByClassName("nav-item");
 for (var i = 0; i < btns.length; i++) {
   btns[i].addEventListener("click", function(){
@@ -247,4 +247,4 @@ for (var i = 0; i < btns.length; i++) {
     current[0].className = current[0].className.replace(" active", "");
     this.className += " active";
   });
-}
+} */
