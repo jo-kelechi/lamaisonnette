@@ -19,7 +19,7 @@
                     <li class="nav-item"> <a class="nav-link" href="about.php">About</a> </li>
                     <li class="nav-item"> <a class="nav-link" href="admission.php">Admission</a> </li>
                     <li class="nav-item"> <a class="nav-link" href="curriculum.php">Curriculum</a> 
-                      <ul class="">
+                      <ul class="submenu">
                         <li class="nav-item">
                           <a href="/curriculum/knowledge.php" class="nav-link">Knowledge and Understanding of the world</a>
                         </li>

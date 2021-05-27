@@ -70,7 +70,7 @@ ul, ol{list-style:none; margin-bottom:0;}
 .navbar-brand{display:none;}
 .header-wrap .logo{margin-top: 7px;}
 .bg-dark{background:none !important;}
-.navbar-dark .navbar-nav .nav-link{color:#000; font-size:14px; font-weight:bold; text-transform:uppercase; padding:29px 16px;}
+.navbar-dark .navbar-nav .nav-link{color:#000; font-size:14px; font-weight:bold; text-transform:uppercase; padding:20px 15px;}
 .navbar-dark .navbar-nav .nav-link:hover{color:#eb325b !important;}
 .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link{color:#eb325b;}
 .navbar{margin-top:0px; padding: 0; float: right;}
@@ -83,7 +83,7 @@ ul, ol{list-style:none; margin-bottom:0;}
     position: absolute;
     left:0;
     top: 200%;
-    width: 200px;
+    width: 300px;
     padding: 0px;
     z-index: 100;
     background: #eb325b;
