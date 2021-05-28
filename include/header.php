@@ -3,7 +3,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-4">
-            <div class="logo"><a href="index.php"><img src="images/logo-wide.png" alt=""></a></div>
+            <div class="logo"><a href="index.php"><img src="/images/logo-wide.png" alt=""></a></div>
           </div>
           <div class="col-lg-8"> 
             

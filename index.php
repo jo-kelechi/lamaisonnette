@@ -164,9 +164,9 @@
               <div class="image"> <img src="images/french.png" alt="class image" class="img-responsive">          
               </div>
               <div class="content">
-                <h4><a href="curriculum.php" target="_blank">French Curriculum </a></h4>          
+                <h4><a href="/curriculum/french.php" target="_blank">French Curriculum </a></h4>          
               </div>         
-              <a href="curriculum.php" target="_blank"class="schedule2"> Read More</a>     
+              <a href="/curriculum/french.php" target="_blank"class="schedule2"> Read More</a>     
             </div>
             <!-- class item --> 
           </li>
@@ -176,10 +176,10 @@
     
               </div>
               <div class="content">
-                <h4><a href="curriculum.php" target="_blank"> Kindergarten & preschool readiness</a></h4>
+                <h4><a href="/curriculum/kindergarten.php" target="_blank"> Kindergarten & preschool readiness</a></h4>
               
               </div>
-              <a href="curriculum.php" target="_blank"class="schedule2"> Read More</a>
+              <a href="/curriculum/kindergarten.php" target="_blank"class="schedule2"> Read More</a>
             </div>
             <!-- class item --> 
           </li>
@@ -189,10 +189,10 @@
            
               </div>
               <div class="content">
-                <h4><a href="curriculum.php" target="_blank">Letters and numbers</a></h4>
+                <h4><a href="/curriculum/letters-numbers.php" target="_blank">Letters and numbers</a></h4>
              
               </div>
-             <a href="curriculum.php" target="_blank" class="schedule2"> Read More</a>
+             <a href="/curriculum/letters-numbers.php" target="_blank" class="schedule2"> Read More</a>
             </div>
             <!-- class item --> 
           </li>
@@ -202,10 +202,10 @@
              
               </div>
               <div class="content">
-                <h4><a href="curriculum.php" target="_blank">Think and do activities</a></h4>
+                <h4><a href="/curriculum/think-do.php" target="_blank">Think and do activities</a></h4>
               
               </div>
-            <a href="curriculum.php" target="_blank" class="schedule2"> Read More</a>
+            <a href="/curriculum/think-do.php" target="_blank" class="schedule2"> Read More</a>
             </div>
             <!-- class item --> 
           </li>
@@ -215,10 +215,10 @@
              
               </div>
               <div class="content">
-                <h4><a href="curriculum/motor-skills.php" target="_blank"> Motor skills development</a></h4>
+                <h4><a href="/curriculum/motor-skills.php" target="_blank"> Motor skills development</a></h4>
               
               </div>
-            <a href="curriculum.php" target="_blank"class="schedule2"> Read More</a>
+            <a href="/curriculum/motor-skills.php" target="_blank"class="schedule2"> Read More</a>
             </div>
             <!-- class item --> 
           </li>
@@ -227,9 +227,9 @@
               <div class="image"> <img src="images/school.png" alt="class image" class="img-responsive">
               </div>
               <div class="content">
-                <h4><a href="curriculum.php" target="_blank">After school programme</a></h4>
+                <h4><a href="/curriculum/after-school.php" target="_blank">After school programme</a></h4>
               </div>
-              <a href="curriculum.php" target="_blank"class="schedule2"> Read More</a>
+              <a href="/curriculum/after-school.php" target="_blank"class="schedule2"> Read More</a>
             </div>
             <!-- class item --> 
           </li>
@@ -238,9 +238,9 @@
               <div class="image"> <img src="images/practical.png" alt="class image" class="img-responsive">           
               </div>
               <div class="content">
-                <h4><a href="curriculum.php" target="_blank">Practical life exercises</a></h4>
+                <h4><a href="/curriculum/practical-life.php" target="_blank">Practical life exercises</a></h4>
               </div>
-              <a href="curriculum.php" target="_blank" class="schedule2"> Read More</a>
+              <a href="/curriculum/practical-life.php" target="_blank" class="schedule2"> Read More</a>
             </div>
             <!-- class item --> 
           </li>
@@ -249,9 +249,9 @@
               <div class="image"> <img src="images/knowledge.png" alt="class image" class="img-responsive">            
               </div>
               <div class="content">
-                <h4><a href="class-single.html">Knowledge and understanding of the world</a></h4>            
+                <h4><a href="/curriculum/knowledge.php">Knowledge and understanding of the world</a></h4>            
               </div>
-              <a href="curriculum.php" target="_blank" class="schedule2"> Read More</a>
+              <a href="/curriculum/knowledge.php" target="_blank" class="schedule2"> Read More</a>
             </div>
             <!-- class item --> 
           </li>
