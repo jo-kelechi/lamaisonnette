@@ -49,8 +49,8 @@
     <div class="inner-content">
       <div class="container"> 
         <div>
-          <h4 class="jpx-uppercase">Knowledge and Understanding of the World</h4>
-          <img src="images/c10.jpg">
+          <h4 class="jpx-uppercase">Knowledge and Understanding of the World</h4><br><br>
+          <img src="images/c10.jpg"><br><br>
         </div>
         <div class="blog-wrapr">
           <p>We encourage every child to take an interest in the world around them, and, as every parent will know, youngsters have naturally inquisitive minds.</p>

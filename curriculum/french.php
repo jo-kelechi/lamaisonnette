@@ -49,8 +49,8 @@
     <div class="inner-content">
       <div class="container"> 
       <div>
-          <h4 class="jpx-uppercase">French Curriculum</h4>
-          <img src="images/c3.jpg">
+          <h4 class="jpx-uppercase">French Curriculum</h4><br><br>
+          <img src="images/c3.jpg"><br><br>
         </div>
         <div class="blog-wrapr">
           <p>For our French Curriculum, the children are first of all introduced to concepts that they are familiar with in English.</p>

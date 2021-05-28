@@ -49,8 +49,8 @@
     <div class="inner-content">
       <div class="container"> 
         <div>
-          <h4 class="jpx-uppercase">Kindergarten and Preschool Readiness</h4>
-          <img src="images/c4.jpg">
+          <h4 class="jpx-uppercase">Kindergarten and Preschool Readiness</h4><br><br>
+          <img src="images/c4.jpg"><br><br>
         </div>
         <div class="blog-wrapr">
           <p>Dot-to-dots, Colouring, Drawing, Cutting and Pasting activities.</p>

@@ -49,8 +49,8 @@
     <div class="inner-content">
       <div class="container"> 
         <div>
-          <h4 class="jpx-uppercase">Motor Skills Development</h4>
-          <img src="images/c2.jpg">
+          <h4 class="jpx-uppercase">Motor Skills Development</h4><br><br>
+          <img src="images/c2.jpg"><br><br>
         </div>
         <div class="blog-wrapr">
           <p>

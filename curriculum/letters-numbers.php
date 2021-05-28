@@ -53,8 +53,8 @@
           <p>We all know how important communication is.<br>
             Here at LMBS we appreciate that, in this age of global opportunities, it is imperative that every child that comes through our doors is given the very best start in life when it comes to knowing and fully understanding the English alphabet.
             We teach every child the key elements through both formal and informal learning. 
-          </p>
-          <img src="images/c8.jpg">
+          </p><br><br>
+          <img src="images/c8.jpg"><br><br>
         </div>
         <div class="blog-wrapr">
           <p>Here are just a few of the elements which your child will be taught:<br><br><br>

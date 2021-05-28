@@ -49,8 +49,8 @@
     <div class="inner-content">
       <div class="container"> 
         <div>
-          <h4 class="jpx-uppercase">After School Programme</h4>
-          <img src="images/c7.jpg">
+          <h4 class="jpx-uppercase">After School Programme</h4><br><br>
+          <img src="images/c7.jpg"><br><br>
         </div>
         <div class="blog-wrapr">
           <p>

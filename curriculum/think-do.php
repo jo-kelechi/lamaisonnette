@@ -52,7 +52,7 @@
           <h4 class="jpx-uppercase">Think and Do Activities</h4>
           <p>Play is known to be an important element of learning as, whilst having fun with games such as jigsaws and other puzzles, every child learns a whole host of new skills. The most obvious of these is the need of the child to independently work out a solution to the puzzle.</p>
           <p>Success, of course, also results in a great sense of achievement on the part of the child, which, in turn, further encourages the child’s desire to learn and to succeed.</p>
-          <img src="images/c1.jpg">
+          <br><br><img src="images/c1.jpg"><br><br>
         </div>
         <div class="blog-wrapr">
           <p>
