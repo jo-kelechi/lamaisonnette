@@ -2623,7 +2623,7 @@ blockquote:after {
 .contact-wrap .lead{padding:0;}
 .contact-form p{padding:0;}
 .navbar-nav>li>a+i {display: block;}
-.navbar-nav > li:hover > ul{display:none;}
+.navbar-nav > li:hover > ul{display:block;}
 .navbar-nav > li > ul{width:100%; position:static; display:none; margin-left: 0; opacity:1; visibility:visible;}
 .navbar-nav>li{position:relative !important;}
 .dropdown a:after{display:none;}
