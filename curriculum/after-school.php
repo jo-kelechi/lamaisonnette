@@ -39,10 +39,38 @@
   </head>
   <body>
 
-    <?php include ('include/header.php'); ?>
+    <?php include ('../include/header.php'); ?>
 
+    <!--Inner Heading Start-->
+    <div class="inner-heading">
+      <div class="container">
+        <h1>After School Programme</h1>
+      </div>
+    </div>
+    <!--Inner Heading End--> 
+
+    <!--Classes Start--> 
+    <div class="inner-content">
+      <div class="container"> 
+        <div>
+          <h4 class="jpx-uppercase">After School Programme</h4>
+          <img src="images/c7.jpg">
+        </div>
+        <div class="blog-wrapr">
+          <p>
+            Our After school programme include the following:<br><br><br>
+            <span>Taekwondo</span><br><br>
+            <span>STEM</span><br><br>
+            <span>Ballet</span><br><br>
+            <span>Coding</span><br><br>
+            <span>Piano</span><br><br>
+          </p>
+        </div>
+      </div>
+    </div>
+    <!--Classes End--> 
     
-    <?php include ('include/footer.php'); ?>
+    <?php include ('../include/footer.php'); ?>
         
     <!-- Optional JavaScript --> 
     <!-- jQuery first, then Popper.js, then Bootstrap JS --> 
