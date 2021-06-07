@@ -21,25 +21,25 @@
                     <li class="nav-item"> <a class="nav-link" href="../curriculum.php">Curriculum</a> 
                       <ul class="submenu">
                         <li class="nav-item">
-                          <a href="curriculum/knowledge.php" class="nav-link">Knowledge and Understanding of the world</a>
+                          <a href="../../curriculum/knowledge.php" class="nav-link">Knowledge and Understanding of the world</a>
                         </li>
                         <li class="nav-item">
-                          <a href="curriculum/kindergarten.php" class="nav-link">Kindergarten and Preschool Readiness</a>
+                          <a href="../../curriculum/kindergarten.php" class="nav-link">Kindergarten and Preschool Readiness</a>
                         </li>
                         <li class="nav-item">
-                          <a href="curriculum/practical-life.php" class="nav-link">Practical Life Exercises</a>
+                          <a href="../../curriculum/practical-life.php" class="nav-link">Practical Life Exercises</a>
                         </li>
                         <li class="nav-item">
-                          <a href="curriculum/motor-skills.php" class="nav-link">Motor Skills Development</a>
+                          <a href="../../curriculum/motor-skills.php" class="nav-link">Motor Skills Development</a>
                         </li>
                         <li class="nav-item">
-                          <a href="curriculum/letters-numbers.php" class="nav-link">Letters and Numbers</a>
+                          <a href="../../curriculum/letters-numbers.php" class="nav-link">Letters and Numbers</a>
                         </li>
                         <li class="nav-item">
-                          <a href="curriculum/think-do.php" class="nav-link">Think and Do Activities</a>
+                          <a href="../../curriculum/think-do.php" class="nav-link">Think and Do Activities</a>
                         </li>
                         <li class="nav-item">
-                          <a href="curriculum/french.php" class="nav-link">French Curriculum</a>
+                          <a href="../../curriculum/french.php" class="nav-link">French Curriculum</a>
                         </li>
                       </ul>
                     </li>
