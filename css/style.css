@@ -2181,7 +2181,7 @@ blockquote:after {
 /*---------------------------------------
        Inner Heading Css              
 -----------------------------------------*/
-.inner-heading{background: url(../images/inner-heading.jpg) no-repeat top; padding: 80px 20px; background-size: cover;}
+.inner-heading{background: url(../images/inner-heading.jpg) no-repeat center; padding: 80px 20px; background-size: cover;}
 
 
 
