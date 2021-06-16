@@ -299,12 +299,12 @@
                 </div>
               </div>
             </li>
-            <li class="col-lg-4 col-md-6 column all">
+            <li class="col-lg-4 col-md-6 column cabane">
               <div class="galleryImg"><img src="images/gallery/g19.png" alt="">
                 <div class="jx-portfolio-hoverlayer"></div>
                 <div class="jx-portfolio-hover">
                   <div class="jx-portfolio-top-hover">
-                    <div class="jx-title jx-uppercase">Food Break</div>
+                    <div class="jx-title jx-uppercase">Cabane</div>
                   </div>
                   <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g19.png" data-fancybox="gallery">
                     <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
@@ -372,6 +372,266 @@
                     <div class="jx-title jx-uppercase">Playground</div>
                   </div>
                   <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g24.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column cabane">
+              <div class="galleryImg"><img src="images/gallery/g25.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Cabane</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g25.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column chateau">
+              <div class="galleryImg"><img src="images/gallery/g26.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Chateau</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g26.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column attique">
+              <div class="galleryImg"><img src="images/gallery/g27.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Attique</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g27.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column cabane">
+              <div class="galleryImg"><img src="images/gallery/g28.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Cabane</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g28.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column cabane">
+              <div class="galleryImg"><img src="images/gallery/g29.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Cabane</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g29.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column attique">
+              <div class="galleryImg"><img src="images/gallery/g30.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Attique</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g30.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column cabane">
+              <div class="galleryImg"><img src="images/gallery/g31.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Cabane</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g31.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column chalet">
+              <div class="galleryImg"><img src="images/gallery/g32.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Chalet</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g32.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column chalet">
+              <div class="galleryImg"><img src="images/gallery/g33.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Chalet</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g33.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column chalet">
+              <div class="galleryImg"><img src="images/gallery/g34.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Chalet</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g34.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column chalet">
+              <div class="galleryImg"><img src="images/gallery/g35.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Chalet</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g35.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column chalet">
+              <div class="galleryImg"><img src="images/gallery/g36.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Chalet</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g36.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column chalet">
+              <div class="galleryImg"><img src="images/gallery/g37.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Chalet</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g37.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column chalet">
+              <div class="galleryImg"><img src="images/gallery/g38.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Chalet</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g38.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column chateau">
+              <div class="galleryImg"><img src="images/gallery/g39.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Chateau</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g39.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column chateau">
+              <div class="galleryImg"><img src="images/gallery/g40.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Chateau</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g40.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column foyer">
+              <div class="galleryImg"><img src="images/gallery/g41.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Foyer</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g41.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column foyer">
+              <div class="galleryImg"><img src="images/gallery/g42.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Foyer</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g42.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column all">
+              <div class="galleryImg"><img src="images/gallery/g43.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">Playground</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g43.png" data-fancybox="gallery">
+                    <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
+                    </a> </div>
+                </div>
+              </div>
+            </li>
+            <li class="col-lg-4 col-md-6 column all">
+              <div class="galleryImg"><img src="images/gallery/g44.png" alt="">
+                <div class="jx-portfolio-hoverlayer"></div>
+                <div class="jx-portfolio-hover">
+                  <div class="jx-portfolio-top-hover">
+                    <div class="jx-title jx-uppercase">After School</div>
+                  </div>
+                  <div class="jx-portfolio-plus-hover"> <a href="images/gallery/g44.png" data-fancybox="gallery">
                     <div class="jx-portfolio-link fancybox"><i class="fa fa-link"></i></div>
                     </a> </div>
                 </div>
