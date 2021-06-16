@@ -56,7 +56,7 @@
         <a class="btn" onclick="filterSelection('foyer')"> Foyer</a>
         <a class="btn" onclick="filterSelection('cabane')"> Cabane</a>
         <a class="btn" onclick="filterSelection('chalet')"> Chalet</a>
-        <a class="btn" onclick="filterSelection('enrich')"> Enrichment Prog</a>
+        <a class="btn" onclick="filterSelection('enrich')"> Enrichment</a>
         <a class="btn" onclick="filterSelection('paaw')"> Plant & Animals</a>
       </div>
       
