@@ -6,7 +6,7 @@
           <div class="row">
             <div class="col-lg-3 col-md-6">
               <div class="footer-widget about-widget"> <a href="#"> <img src="images/logo-wide.png" alt="Awesome Image"> </a>
-                <p>We are a bilingual daycare/preschool for 3 months to 5 years old located in Gbagada, Lagos.</p>
+                <p>We are a bilingual nursery/primary for 3 months to 12 years old located in Gbagada, Lagos.</p>
                 <ul class="social">
                   <li><a href="https://www.facebook.com/lamaisonnette2020/"><i class="fa fa-facebook"></i></a> </li>
                   <li><a href="https://twitter.com/Lamqisonnette_p/status/128779605233666?s=20"><i class="fa fa-twitter"></i></a> </li>

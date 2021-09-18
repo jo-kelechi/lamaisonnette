@@ -62,11 +62,11 @@
                     For our French Curriculum, the children are first of all introduced to concepts that they are familiar with in English. Our themes include, but are not limited to the following:<br>
                     <li>Les Salutations/Greetings: The children are taught everyday greetings and phrases associated with greeting. The children are greeted in French as they arrive in the morning and when they depart. The children are paired up in class and create imaginary situations in which they will exchange French greetings.</li>
 
-                    <li>Ma famille/ My family: Our preschoolers are spoken to about their parents, relatives and friends. We have an illustrated chart showing a family and point who is who in French.</li>
+                    <li>Ma famille/ My family: Our pupils are spoken to about their parents, relatives and friends. We have an illustrated chart showing a family and point who is who in French.</li>
 
                     <li>Les jours de la semaine/ Days of the week: This lesson is entwined into their day to day lesson. We teach the days of the week one day at a time. On Monday, for example, we tell them that today is Lundi, on Tuesday it is Mardi and also ask what was yesterday.</li>
 
-                    <li> Les Chiffres/ Numbers: Teaching number, like all the rest is easier because preschoolers are already acquainted with numbers in English language.</li>
+                    <li> Les Chiffres/ Numbers: Teaching number, like all the rest is easier because pupils are already acquainted with numbers in English language.</li>
 
                     <li>Les Couleurs/Colours: Children are usually very fascinated with colours, so this is concept is usually a breeze through.</li>
 
@@ -77,7 +77,7 @@
 
                     <li> Les animaux/ Animals: This lesson could be divided into under the sea animals, farm animals or animals in the wild depending on the age of the children.</li>
                     <li> Ma maison/ My house: The children are introduced to everyday household objects that they are familiar with.</li>
-                    <li> Les objets de la classe / Objects in the classroom: Preschoolers are taught names of familiar classroom objects. For better understanding, we point at different objects in the classroom, the children follow suit by saying and repeating the names out loud.</li>
+                    <li> Les objets de la classe / Objects in the classroom: Pupils are taught names of familiar classroom objects. For better understanding, we point at different objects in the classroom, the children follow suit by saying and repeating the names out loud.</li>
 
 
                     <span class="in-title">Kindergarten & preschool readiness</span><br>

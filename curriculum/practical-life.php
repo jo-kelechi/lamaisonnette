@@ -49,7 +49,7 @@
     <div class="inner-content">
       <div class="container"> 
       <div>
-          <h4 class="jpx-uppercase">Kindergarten and Preschool Readiness</h4><br><br>
+          <h4 class="jpx-uppercase">Practical Life</h4><br><br>
           <img src="images/c9.jpg"><br><br>
         </div>
         <div class="blog-wrapr">

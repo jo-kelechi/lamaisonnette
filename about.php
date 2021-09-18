@@ -66,9 +66,9 @@
          
               <div class="post-content">
                 
-<p>We are a bilingual daycare/preschool for 3 months to 5 years old located in Gbagada, Lagos.
+<p>We are a bilingual nursery/primary for 3 months to 12 years old located in Gbagada, Lagos.
 We also run an Afterschool and Weekend French Club for children up to 10 years old.
-We run a parallel curriculum; a French language programme and the EYFS curriculum which is British based for our preschoolers.</p>
+We run a parallel curriculum; a French language programme and the EYFS curriculum which is British based for our pupils.</p>
 
 <p>
 
@@ -77,7 +77,7 @@ A foreign language is one of the best gifts you can give your child!
 Young children are natural language learners. Whilst adults may struggle with language acquisition, children have the innate ability to learn several languages seamlessly and simultaneously. Not only can children process a new language effortlessly, they also inherently acquire native pronunciation.</p>
 <p>
 Studies have shown there are many additional benefits to the exposure of a second language in early childhood beyond the acquisition of the language itself. Bilingual children have demonstrated increased problem solving abilities, better working memory and improved capacity for abstract thinking, among other benefits. Having the opportunity to experience a foreign language environment also expands children’s multi-cultural awareness, stimulates their curiosity about other parts of the world and fosters an appreciation for understanding multiple points of view.
-Our pupils do not need to have had any previous French language exposure before they can fit into our school environment. Our program at La Maisonnette Bilingual Preschool is not an immersion experience;rather, French is seamlessly blended into activities throughout the day. This approach enables the children to acquire the language in a natural manner.
+Our pupils do not need to have had any previous French language exposure before they can fit into our school environment. Our program at La Maisonnette Bilingual School is not an immersion experience;rather, French is seamlessly blended into activities throughout the day. This approach enables the children to acquire the language in a natural manner.
 </p>
 
 <p>

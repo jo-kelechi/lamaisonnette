@@ -1,2 +1,2 @@
 # lamaisonnette
-LaMaisonnette Bilingual Preschool
+LaMaisonnette Bilingual School

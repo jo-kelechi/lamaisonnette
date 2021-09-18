@@ -58,7 +58,7 @@
   <div class="container">
 <div class="inner-content">
 
-  We are a bilingual daycare/preschool for 3 months to 5 years old located in Gbagada, Lagos. We also run an Afterschool and Weekend French Club for children up to 10 years old. We run a parallel curriculum; a French language programme and the EYFS curriculum which is British based for our preschoolers.
+  We are a bilingual nursery/primary for 3 months to 12 years old located in Gbagada, Lagos. We also run an Afterschool and Weekend French Club for children up to 10 years old. We run a parallel curriculum; a French language programme and the EYFS curriculum which is British based for our pupils.
 
 </div><!------end of inner-content------>
 
